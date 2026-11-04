@@ -4,7 +4,14 @@
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "I am John Tejral, and I am a junior at the University of Nebraska-Lincoln studying Sports Media and Communications, Welcome to my blog, where I will be posting sports-related data and statistics, looking at how the numbers portray a story throughout the lens of an industry reliant on numbers."
+  },
+  {
+    "objectID": "posts/how-bad-was-brian-ferentz-at-iowa/index.html",
+    "href": "posts/how-bad-was-brian-ferentz-at-iowa/index.html",
+    "title": "How Bad Was Brian Ferentz at Iowa?",
+    "section": "",
+    "text": "It’s no secret that the Iowa Hawkeyes struggled with Brian Ferentz as their offensive coordinator, but just how bad was their offensive production in those seasons?"
   },
   {
     "objectID": "about.html",
@@ -18,7 +25,7 @@
     "href": "index.html",
     "title": "Latest Posts",
     "section": "",
-    "text": "CHANGE THIS TO BE THE TITLE OF YOUR POST\n\n\n\nfootball\n\noffense\n\niowa\n\n\n\n\n\n\n\n\n\nNov 2, 2026\n\n\nJohn Tejral\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nNov 2, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 30, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "How Bad Was Brian Ferentz at Iowa?\n\n\n\nfootball\n\noffense\n\niowa\n\n\n\n\n\n\n\n\n\nNov 3, 2026\n\n\nJohn Tejral\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 3, 2026\n\n\nJohn Tejral\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nNov 2, 2026\n\n\nHarlow Malloc\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
